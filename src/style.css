@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.full-landing-image {
+  width: 100%;
+  height: 100vh;
+  background: url(https://i.ibb.co/fGdBHkm/241301054-4321851677890538-1007101534953999902-n.jpg)
+    no-repeat center;
+  background-size: cover;
+}
